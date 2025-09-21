@@ -4,7 +4,8 @@ U# Day 2 Quick Reference Sheet 📋
 
 ### Primary Learning Resources
 - [AWS Global Infrastructure Overview](https://aws.amazon.com/about-aws/global-infrastructure/)
-- [AWS Skill Builder Module 3](https://explore.skillbuilder.aws/learn/course/134) - Global Infrastructure
+- [AWS Skill Builder](https://skillbuilder.aws) - Search "AWS Cloud Practitioner Essentials"
+- [Coursera AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials) - FREE audit option
 - [AWS Regions and AZs Documentation](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html)
 - [AWS Well-Architected Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
 

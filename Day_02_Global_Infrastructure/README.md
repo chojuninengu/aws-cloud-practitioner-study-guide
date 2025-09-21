@@ -14,7 +14,8 @@ Master AWS's global infrastructure and understand how to design resilient, high-
 
 ### 🎥 Primary Video Content (60 minutes)
 1. **AWS Skill Builder - AWS Cloud Practitioner Essentials**
-   - [Module 3: Global Infrastructure and Reliability](https://explore.skillbuilder.aws/learn/course/134) (FREE)
+   - Go to [skillbuilder.aws](https://skillbuilder.aws) and search "AWS Cloud Practitioner Essentials"
+   - Alternative: [Coursera AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials) (FREE audit)
    - Duration: 45 minutes
 
 2. **AWS Global Infrastructure Deep Dive**
@@ -23,7 +24,8 @@ Master AWS's global infrastructure and understand how to design resilient, high-
 
 ### 📚 Essential Reading (15 minutes)
 - [AWS Well-Architected Framework - Reliability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html)
-- [Disaster Recovery Strategies](https://aws.amazon.com/disaster-recovery/)
+- [AWS Disaster Recovery](https://aws.amazon.com/disaster-recovery/)
+- [AWS Training - Cloud Practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
 
 ---
 
