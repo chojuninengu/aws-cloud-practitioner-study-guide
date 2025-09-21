@@ -1,0 +1,53 @@
+# AWS Credentials and Sensitive Files
+*.pem
+*.key
+aws-credentials.txt
+.aws/
+credentials
+config
+
+# Personal Notes and Answers
+**/my-answers.md
+**/personal-notes.md
+**/progress-tracker.md
+
+# Screenshots with potentially sensitive info
+screenshots/
+*.png
+*.jpg
+*.jpeg
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Node modules (if we add any tools later)
+node_modules/
+npm-debug.log*
+
+# Python cache (if we add any Python tools)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Backup files
+*.bak
+*.backup
+*~
